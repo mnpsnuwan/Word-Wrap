@@ -1,2 +1,2 @@
 # Word-Wrap
-Word wrapping project with Java
+Java Word wrapping NetBeans project
